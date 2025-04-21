@@ -18,7 +18,7 @@ body {
 }
 
 .flex-container {
-  width: 144rem;
+  max-width: 144rem;
   height: 100%;
   margin: 12.8rem auto;
   background-color: hsl(212, 45%, 89%);
