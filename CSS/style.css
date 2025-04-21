@@ -26,7 +26,7 @@ body {
 
 .QR-card {
   background-color: hsl(0, 0%, 100%);
-  padding: 1.8rem;
+  padding: 2rem;
   width: min-content;
   border-radius: 20px;
   box-shadow: 0px 5px 20px 0px rgba(193, 193, 193, 0.585);
@@ -40,13 +40,13 @@ body {
 }
 
 .QR-img {
-  height: 28rem;
-  width: 28rem;
+  height: 26rem;
+  width: 26rem;
   border-radius: 15px;
   margin-bottom: 2.8rem;
 }
 
-.heading-secondary {
+.heading-primary {
   font-size: 2.2rem;
   font-weight: 700;
   text-align: center;
